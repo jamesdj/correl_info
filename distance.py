@@ -1,6 +1,6 @@
 import numpy as np
 
-from correl_info.utils import sqrtm_pwd
+from correl_info.utils import sqrtm_psd
 
 
 def bures_dist(A, B):
